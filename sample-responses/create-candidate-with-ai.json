@@ -1,0 +1,16 @@
+{
+  "message": "Candidate created in synthetic HRIS and published to Salesforce.",
+  "candidate": {
+    "candidate_number": "C2001",
+    "first_name": "Sophia",
+    "last_name": "Carter",
+    "email": "sophia.carter@example.com",
+    "desired_role": "Enterprise HR Integration Consultant",
+    "status": "New"
+  },
+  "salesforce": {
+    "success": true,
+    "id": "a00XXXXXXXXXXXXXXX"
+  },
+  "ai_summary": "AI HR summary provided by Josh: ..."
+}
