@@ -44,5 +44,3 @@ The demo shows a user creating a candidate in a synthetic HRIS UI. The integrati
 ## Repository Scope
 
 This is a public architecture portfolio repository. It intentionally excludes implementation code, secrets, credentials, and environment-specific configuration.
-
-EOF
