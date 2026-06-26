@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Salesforce HR AI Integration Architecture
 
 This repository documents a modern HR integration architecture that connects a synthetic HRIS workflow with Salesforce and AI-generated recruiter summaries.
