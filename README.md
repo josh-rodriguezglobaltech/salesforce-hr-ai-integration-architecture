@@ -12,6 +12,14 @@ The project demonstrates an end-to-end enterprise integration pattern:
 4. The enriched candidate record is published to Salesforce.
 5. Salesforce stores the result in a custom `Candidate__c` object.
 
+## Demo Video
+
+Watch the complete end-to-end demonstration on YouTube:
+
+**Modern HR Integration Architecture with Salesforce, AI & OAuth 2.0**
+
+https://www.youtube.com/watch?v=IL__IcOOTz0
+
 ## Architecture
 
 ![Architecture Diagram](images/architecture.png)
